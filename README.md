@@ -1,5 +1,5 @@
 # -Individual-household-electric-power-consumption-Regression-Model
-Data Set Information:
+## Data Set Information:
 
 This archive contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months).
 Notes:
